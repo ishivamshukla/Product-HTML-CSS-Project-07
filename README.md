@@ -1,26 +1,32 @@
-# Assignment 1
+# Product Web Page
 
-![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
-![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
+> ## [Shivam Shukla](https://ishivamshukla.in)
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--7-lightgrey)
+<br/>
 
-## Shivam Shukla
+![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-No-red)
+[![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](#)
+![Time](https://img.shields.io/badge/Time%20Taken-5hrs-green)
 
-## Project 7 [Live Link](#)
+## Tech Stack:
 
--   Skills Gained in this project
-    -   Learned how we can use position Relative & Absolute in combination so that items can be stacked on top of each other
-    -  Learned to add shadows onto svgs
-
+![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## Time taken to finish this project
+### Checkout the live website [here](#).
 
--  4-5 hour to complete it.
+---
 
-#### Screenshot
+## My Learnings
+
+-   Skills Gained in this project
+    -   Learned how we can use position Relative & Absolute in combination so that items can be stacked on top of each other
+    -   Learned to add shadows onto svgs
+
+---
+
+## How the website looks like
 
 ![Desktop](7.png)
