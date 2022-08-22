@@ -19,17 +19,17 @@ nav img {
     width: 100px;
     display: block;
 }
-nav .nav-items {
+.nav-items {
     display: flex;
     gap: 50px;
     align-items: center;
     font-size: 1.1rem;
 }
-nav .nav-items {
+.nav-items {
     display: flex;
     gap: 50px;
 }
-nav .nav-items .active-item {
+.nav-items .active-item {
     color: #fe6139;
     font-weight: bold;
     font-size: 1.1rem;
@@ -37,6 +37,11 @@ nav .nav-items .active-item {
 nav img:last-child {
     width: 200px;
 }
+
+@media only screen and (max-width: 735px) {
+
+}
+
 
 /*----------------- intro section -------------------- */
 .intro-section {
@@ -164,3 +169,53 @@ nav img:last-child {
     margin-top: 48px;   
     cursor: pointer;
 }
+
+@media only screen and (max-width: 797px) {
+    nav {
+        overflow-x: auto;
+        height: 14vh;
+    }
+    .nav-items {
+        margin-left: 40px;
+    }
+    .intro-section {
+        flex-direction: column-reverse;
+        padding: 0 20px;
+    }
+    .right-section {
+        margin: 0 auto;
+    }
+    .headphone-div {
+        width: 480px;
+        margin-top: 40px;
+        margin-right: -120px;
+    }
+    .headphone-div img:last-child {
+        width: 300px;
+        position: relative;
+        z-index: -1;
+        top: -20px;
+        left: 40px;
+    }
+    .right-section .dots {
+        margin-left:0px;
+    }
+    .right-section .action-btn {
+        padding: 14px 24px;
+        cursor: pointer;
+        margin-left: 0px;
+    }
+    .headphone-div img:first-child {
+        position: absolute;
+        width: 120px;
+        top: 150px;
+        left: -10px;
+    }
+    .headphone-div .discount-content {
+        position: absolute;
+        top: 180px;
+        left: 15px;
+        color: #FFFFFF;
+        font-family: "Fredoka One";
+    }
+} 
